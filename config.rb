@@ -6,3 +6,4 @@ images_dir = 'build/images'
 fonts_dir = 'build/fonts'
 relative_assets = true
 line_comments = true
+Sass::Script::Number.precision = 8
