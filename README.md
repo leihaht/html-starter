@@ -11,9 +11,6 @@ Includes the follwing tools, tasks, and workflows:
 - Compass
 - CoffeeScript (with source mapping!)
 - jQuery (from npm)
-- Backbone (from npm)
-- Handlebars (as a backbone dependency)
-- Non common-js vendor code (like a jQuery plugin)
 - LiveReload
 - Static Server
 - Image optimization
